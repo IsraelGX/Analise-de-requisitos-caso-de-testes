@@ -1,7 +1,5 @@
-# Bootcamp Tripleten 
-   ## Analista de QA - *Sprint 2*
 
-   ### Design de Teste
+ ## Design de Teste
 
 #### Análise de requisitos 
 - *Análise de requisitos: identificação de objetos de teste*
@@ -33,6 +31,14 @@
 
 - Clases de equivalência
 - Casos de teste
+
+### Como Executar o Projeto
+
+- *Clone o repositório do projeto.*
+- *Navegue até o diretório do projeto e abra seu editor de código favorito.*
+- *Execute os testes conforme os checklists criados e registre os resultados.*
+
+### Obs: Para acessar a documentação da API e realizar os testes é necessário ter acesso ao servidor não disponível nesse momento.
 
 ## Conclusão
 
